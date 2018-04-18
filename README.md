@@ -7,3 +7,6 @@ Il faut évité des missiles sinon GAME OVER
 Il ne faut pas toucher le ciel ni l'eau sinon GAME OVER
 
 Le but : Aller le plus loins possible puis recommencer pour battre son meilleur score.
+
+Source : https://www.youtube.com/watch?v=rJcm5Oyi3YA
+         
